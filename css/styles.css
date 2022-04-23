@@ -42,6 +42,7 @@ header, .navbar{
 
 #navbar-links a{
     color: #fff;
+    cursor: pointer;
     
 }
 
@@ -97,3 +98,23 @@ header, .navbar{
 .carousel-indicators .active{
     background-color: #dfb705;
 }
+
+/*Sobre*/
+
+#about-area{
+    background-color: #fbe97f;
+}
+
+.col-md-6 img{
+    height: 500px;
+}
+
+.main-title{
+    color: rgb(104, 74, 55);
+}
+
+.about-title{
+    color: rgb(104, 74, 55);
+
+}
+
